@@ -1,0 +1,19 @@
+.env
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+
+# Go
+backend/bin/
+backend/coverage.out
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Local/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
